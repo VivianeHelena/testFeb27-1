@@ -4,3 +4,5 @@ Add a third line
 - Change figure one code
 
 Add a fourth line
+- Add a Figure 2
+- Add references
